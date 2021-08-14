@@ -2,7 +2,7 @@
 
  <h3>Linguagem</h3>
 
-- ☕ Estudando Java 
+- ☕ <a href="https://github.com/tiagolopesdev/estudandoJava">Estudando Java</a> 
 
  <div>
   <a href="https://github.com/tiagolopesdev">
