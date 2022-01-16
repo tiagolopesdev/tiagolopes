@@ -1,8 +1,6 @@
 ## Olá! Me chamo Tiago Lopes 
-
+ ####  Estudo programação desde 2017, quando iniciei meu ensino médio que contava com o técnico em informática. Entretanto, procurei me aprofundar ainda mais apartir de 2021. Desenvolvi um jogo autoral com a linguagem C#<a href="https://github.com/tiagolopesdev/Colleted">(Repositório do game)</a> e atualmente faço faculdade de Análise Desenvolvimento de Sistemas e estou focado no back-end com a linguagem Java <a href="https://github.com/tiagolopesdev/estudandoJava">(Repositório estudos de java)</a>, como também no framework Spring ao qual tenho alguns projetos sendo desenvolvidos <a href="https://github.com/tiagolopesdev/cobranca">(Repositório projeto spring)</a>
  <h3>Linguagem</h3>
-
-- ☕ <a href="https://github.com/tiagolopesdev/estudandoJava">Estudando Java</a> 
 
  <div>
   <a href="https://github.com/tiagolopesdev">
