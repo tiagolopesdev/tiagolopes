@@ -1,5 +1,9 @@
-# :earth_asia: Olá! Me chamo Tiago Lopes 
- ####  Estudo programação desde 2017, quando iniciei meu ensino médio que contava com o técnico em informática. Entretanto, procurei me aprofundar ainda mais apartir de 2021. Desenvolvi um <a href="https://github.com/tiagolopesdev/Colleted">jogo autoral</a> com a linguagem C# e atualmente faço faculdade de Análise Desenvolvimento de Sistemas e estou focado no back-end com a <a href="https://github.com/tiagolopesdev/estudandoJava">linguagem Java</a>, como também no framework Spring ao qual tenho alguns <a href="https://github.com/tiagolopesdev/cobranca">projetos</a>
+# Olá! Me chamo Tiago Lopes 
+#### Sou técnico em informática pelo IFPI e tecnólogo em Análise e Desenvolvimento de Sistemas pela Unopar. Almejo fazer especialização e mestrado.
+
+#### Atuo como desenvolvedor full-stack e estou sempre aberto à aprender novas tecnologias afim de contribuir com o produto que estou desenvolvendo. Foco em boas práticas, padrões de arquitetura, visão de escalabilidade dos sistemas, algoritmos e estrutura de dados.
+
+#### Algumas palavras-chave que fazem parte da minha rotina como desenvolvedor: SCRUM, C#, React, Javascript, NodeJs, MySQL, Azure, AWS, Git-Flow, TypeScript, CQRS, DDD, microsserviços, monolito, Java, Maven, JPA, Spring DATA, Spring MVC, Hibernate
  
  <div>
   <a href="https://github.com/tiagolopesdev">
@@ -10,14 +14,20 @@
 <h2>:computer: Tecnologias</h2>
  <div>
   <img src="https://img.shields.io/badge/Linguagem-Java-red">
+  <img src="https://img.shields.io/badge/Linguagem-C#-blue">
+  <img src="https://img.shields.io/badge/Linguagem-NodeJs-green">
+  <img src="https://img.shields.io/badge/Linguagem-JavaScript-yellow">
+  <img src="https://img.shields.io/badge/Linguagem-TypeScript-blue">
+  <img src="https://img.shields.io/badge/Framework-React-blue">
+  <img src="https://img.shields.io/badge/Framework-AspNet-blue">
+  <img src="https://img.shields.io/badge/Framework-NestJs-red">
+  <img src="https://img.shields.io/badge/Modelagem-DDD-white">
+  <img src="https://img.shields.io/badge/Padr%C3%A3o%20de%20arquitetura-DDD-blue">
   <img src="https://img.shields.io/badge/Banco%20de%20dados-MySQL-blue">
-  <img src="https://img.shields.io/badge/ORM-Hibernate-success">
-  <img src="https://img.shields.io/badge/Framework-Spring-success">
-  <img src="https://img.shields.io/badge/Framework-Spring%20Data-success">
-  <img src="https://img.shields.io/badge/Framework-Spring%20Security-success">
-  <img src="https://img.shields.io/badge/Framework-Spring%20MVC-success">
-  <img src="https://img.shields.io/badge/Linguagem de marcação-HTML-orange">
-  <img src="https://img.shields.io/badge/Linguagem de estilização-CSS-orange">
+  <img src="https://img.shields.io/badge/Banco%20de%20dados-DynamoDB-blue">
+  <img src="https://img.shields.io/badge/Metodologia%20%C3%A1gil-SCRUM-white">
+  <img src="https://img.shields.io/badge/CLOUD-AWS-orange">
+  <img src="https://img.shields.io/badge/CLOUD-Azure-blue">
 </div> 
  
 <h2>:calling: Contatos</h2>
